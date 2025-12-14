@@ -1,5 +1,9 @@
 # sandbox-utils
 
-Temporary internal notes.
+This repository is part of an OSINT CTF challenge.
 
-ACTF{way6ack_1s_pow3rful}
+Some information was removed.
+Use public archives to find it.
+
+Flag format:
+ACTF{...}
